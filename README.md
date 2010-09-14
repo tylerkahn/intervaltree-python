@@ -51,7 +51,7 @@ Example
 
 Which returns:
 
-    [{ScheduleItem: (43564, "8:00AM", "12:00PM")}, {ScheduleItem: (53453, "1:00PM", "2:00PM"}]
+    [{ScheduleItem: (43564, "8:00AM", "12:00PM")}, {ScheduleItem: (53453, "1:00PM", "2:00PM")}]
 
 
 Why?
