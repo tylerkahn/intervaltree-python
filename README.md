@@ -65,5 +65,7 @@ Why?
 Other Stuff
 -----------
 -     If you see anything wrong with the implementation, please comment. I have tested it on some large datasets and it seems to work as expected.
+-     Currently this implementation lacks any sort of ability to add items after instantiation. Therefore this data structure is immutable. This could either be a feature or a bug depending on your perspective :) To add other intervals to an instantiated tree `k`, you could do something like `k = IntervalTree(k.search(S, L) + [Interval(8, 12), Interval(2, 3)])` where S and L are numerical values representing the the range of values in `k`.
+
 
 Hope it's useful for someone (or that you learned something)!
