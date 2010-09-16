@@ -25,6 +25,8 @@ You can search the tree with:
 -     `search(point)`
 -     `search(begin, end)`
 
+where `point`, `begin`, and `end` are of type float or int.
+
 
 Example
 ---------
