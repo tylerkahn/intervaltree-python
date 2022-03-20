@@ -1,4 +1,4 @@
-✨ For a **production-ready implementation** please see **@chaimleib**'s repo: https://github.com/chaimleib/intervaltree
+✨ For a **production-ready implementation** please see **@chaimleib**'s repo: [chaimleib/intervaltree](https://github.com/chaimleib/intervaltree)
 
 
 Interval Tree in Python
